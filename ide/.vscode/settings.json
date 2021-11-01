@@ -8,7 +8,7 @@
   },
   "jenkins-runner.hostConfigs": {
     "pipelines-9080": {
-      "url": "http://jenkins:9080",
+      "url": "http://localhost:9080",
       "user": "admin",
       "password": "admin",
       "useCrumbIssuer": true
